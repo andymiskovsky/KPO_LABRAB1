@@ -12,6 +12,7 @@ namespace KPO_LABRAB1
         {
             Console.WriteLine("Kak je ya lublu git, yeah");
             Console.WriteLine(")))");
+            Console.WriteLine("Vse rabotaet krutitsa vertitsa");
             Console.ReadLine();
         }
     }
