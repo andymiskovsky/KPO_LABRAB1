@@ -11,7 +11,8 @@ namespace KPO_LABRAB1
         static void Main(string[] args)
         {
             Console.WriteLine("Kak je ya lublu git, yeah");
-            Console.ReadKey();
+            Console.WriteLine(")))");
+            Console.ReadLine();
         }
     }
 }
